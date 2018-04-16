@@ -18,4 +18,11 @@ You should review your privacy settings on your Google account because those set
 
 I use or may disclose your PII only as follows:
 
+* Administer your account
+* Register you and provide you access to the Application
+* Respond to inquiries or requests that you direct to me;
+* To provide you with relevant content that you requested, using information that you allow me to collect from you
+* To deliver to you any administrative notices, alerts and communications relevant to your use of the Application
+* For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Application, detecting and protecting against error, fraud or other illegal activity
+
 
