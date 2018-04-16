@@ -29,7 +29,8 @@ I use or may disclose your PII only as follows:
 
 Occasionally, at my discretion, I may include or offer third party products or services in my applications. These third party services have separate and independent privacy policies. I therefore have no responsibility or liability for the content and activities of these linked applications. Nonetheless, I seek to protect the integrity of my applications and welcome any feedback about these applications.
 
-Please see the links below to learn more about the privacy policy of my third-party service providers: [Firebase]( https://www.google.com/policies/privacy/)
+Please see the links below to learn more about the privacy policy of my third-party service providers: 
+Firebase [https://www.google.com/policies/privacy/]( https://www.google.com/policies/privacy/)
 
 ## Notification of Changes
 
