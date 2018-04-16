@@ -14,7 +14,7 @@ I use Google Login so you can use your existing google account to access the fea
 You should review your privacy settings on your Google account because those settings determine and govern what PII may be made available to me when you access the Application. While Google Login allows me to access a variety of information about you based on your Google account’s privacy settings, I only access PII which I feel is useful to enhance your experience of the Application, including your name and email address
 
 
-#### How I use information I collect
+### How I use information I collect
 
 I use or may disclose your PII only as follows:
 
